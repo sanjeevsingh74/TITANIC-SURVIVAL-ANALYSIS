@@ -22,6 +22,7 @@ The Titanic Survival dataset is often used as a training dataset for classificat
 
 **Objective:**
 Conducted an in-depth exploratory data analysis (EDA) on the Titanic dataset to uncover key patterns and insights related to passenger survival. The project involved analyzing categorical and numerical data, identifying trends, and visualizing the relationships between various factors like age, gender, class, and embarkation location to assess their influence on survival rates.
+
 **Key Highlights:**
 Explored and cleaned data by handling missing values and transforming features for analysis.
 Visualized key trends such as survival rates across different passenger classes, genders, and ages using bar charts, histograms, and pie charts.
