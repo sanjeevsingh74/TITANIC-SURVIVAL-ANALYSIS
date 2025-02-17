@@ -20,4 +20,12 @@ Additional fields may be included to capture any other relevant factors that cou
 
 The Titanic Survival dataset is often used as a training dataset for classification and predictive modeling tasks. Researchers and data scientists use this dataset to explore patterns and factors that influenced the survival rates of passengers on the Titanic. By analyzing this dataset, one can gain insights into the demographics, socio-economic factors, and strategies for survival during the shipwreck.
 
+**Objective:**
+Conducted an in-depth exploratory data analysis (EDA) on the Titanic dataset to uncover key patterns and insights related to passenger survival. The project involved analyzing categorical and numerical data, identifying trends, and visualizing the relationships between various factors like age, gender, class, and embarkation location to assess their influence on survival rates.
+**Key Highlights:**
+Explored and cleaned data by handling missing values and transforming features for analysis.
+Visualized key trends such as survival rates across different passenger classes, genders, and ages using bar charts, histograms, and pie charts.
+Analyzed the correlation between features like Fare, Age, and Pclass with survival likelihood.
+Provided actionable insights on how factors such as socioeconomic status (class), gender, and age influenced the chances of survival on the Titanic.
+
 Successfully Performed **Exploratory data Analysis** to understand the demographic composition of passengers and their survival outcomes.
