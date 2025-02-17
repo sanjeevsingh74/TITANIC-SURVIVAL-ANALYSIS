@@ -3,7 +3,7 @@
 Passenger Information:
 This section includes data about the passengers, such as their names, gender, age, and passenger class (First, Second, or Third Class). This information provides insights into the demographics of the passengers on board.
 
-Ticket Information:
+**Ticket Information**:
 Ticket information includes details about the passengers' ticket numbers, fares paid, and cabin information. This data can be used to analyze patterns related to ticket prices and cabin locations.
 
 Travel Details:
